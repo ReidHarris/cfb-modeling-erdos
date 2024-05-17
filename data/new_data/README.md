@@ -1,0 +1,1 @@
+## The data I downloaded is inside the two folders "total_offense" and "total_defense". I merged the two data sets together by year (except for 2016-2017 season since there was an issue downloading that data). I think this will be usual for more granular statistics on how well a team performs.
